@@ -1,8 +1,10 @@
 # pose-estimation
 
-#### What is pose estimation ?
+#### What is pose estimation
 - Pose estimation predicts different poses based on a person’s body parts and joint 
-positioning in an image or video. This can be useful as we could automatically detect the 
+positioning in an image or video.
+
+Use case: This can be useful as we could automatically detect the 
 joints, arms, hips, and spine position while performing a squat.
 
 ### Project Description:
